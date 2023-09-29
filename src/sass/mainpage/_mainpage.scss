@@ -1,0 +1,45 @@
+
+// Main page started
+.mainpage {
+  h2 {
+    font-size: 32px;
+    font-weight: bold;
+    width: 50%;
+    display: block;
+    margin: auto;
+  }
+
+  .download {
+    display: flex;
+    align-items: center;
+    padding: 5px 11px;
+    background: black;
+    border-radius: 5px;
+    color:white!important;
+    width: 130px;
+    p {
+      font-size: 10px;
+      span {
+        font-size:12px ;
+      }
+    }
+  }
+
+  &--link {
+    p {
+      margin:5px 0;
+      font-size: 12px;
+    }
+    padding: 48px 48px 0;
+    color:#FFFFFF;
+    border-radius: 16px;
+    &:first-child {
+      background: linear-gradient(121.9deg, #7E2DFC 2.69%, #2D67FC 97.71%);
+    }
+    &:last-child {
+      background: linear-gradient(121.9deg, #22BA5F 2.69%, #2D80FC 97.71%);
+    }
+  }
+}
+
+// Main page end

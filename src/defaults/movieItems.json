@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "fileId": 0,
+      "id": 0,
+      "link": "string",
+      "name": "string"
+    }
+  ],
+  "categoryAges": [
+    {
+      "fileId": 0,
+      "id": 0,
+      "link": "string",
+      "name": "string"
+    }
+  ],
+  "description": "string",
+  "director": "string",
+  "genres": [
+    {
+      "fileId": 0,
+      "id": 0,
+      "link": "string",
+      "name": "string"
+    }
+  ],
+  "id": 0,
+  "keyWords": "string",
+  "movieType": "MOVIE",
+  "name": "string",
+  "poster": {
+    "fileId": 0,
+    "id": 0,
+    "link": "string",
+    "movieId": 0
+  },
+  "producer": "string",
+  "screenshots": [
+    {
+      "fileId": 0,
+      "id": 0,
+      "link": "string",
+      "movieId": 0
+    }
+  ],
+  "timing": 0,
+  "trend": true,
+  "video": {
+    "id": 0,
+    "link": "string",
+    "number": 0,
+    "seasonId": 0
+  },
+  "year": 0
+}

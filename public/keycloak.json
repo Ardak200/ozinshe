@@ -1,0 +1,8 @@
+{
+  "realm": "ozinshe",
+  "auth-server-url": "http://api.ozinshe.com/auth/",
+  "ssl-required": "none",
+  "resource": "react-client",
+  "public-client": true,
+  "confidential-port": 0
+}
